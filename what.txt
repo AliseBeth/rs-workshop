@@ -1,6 +1,8 @@
 ПАМАГИТЕ
 dddd
+changes from <main> 
+changes from <first>
 
-ЕБАНЫЙВРОТ
+text from main: new changes
 
-changes from <main> - new changes
+
